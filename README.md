@@ -1,7 +1,8 @@
 ## Hi there 👋
-My name is Michael, I am currently studying Computing with Software Development at TUDublin
-🌱 I’m currently learning the Django Framework
-🔭 I’m currently working on implmenting Django into a website to display and manipulate databse data through said website
+My name is Michael, I am currently studying Computing with Software Development at TUDublin! <br/>
+🌱 I’m currently learning the Django Framework <br/>
+🔭 I’m currently working on implmenting Django into a website to display and manipulate databse data through said website! <br/>
+😄 Thank you for reading!
 <!--
 **Mick-Murp/Mick-Murp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
